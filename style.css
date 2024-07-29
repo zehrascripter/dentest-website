@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    height: 90px;
+    width: 80px;
+}
+
+#head {
+    font-size: 40px;
+    color: rgb(167, 126, 160);
+}
+
+.logotext {
+    color: blue;
+}
+
+
+
+.links {
+    width: 100%;
+    margin-left: 20px;
+    font-size: large;
+    margin-top: 30px;
+}
+
+.atag {
+    color: rgb(80, 176, 206);
+}
+
+
+
+.para {
+    text-align: center;
+    margin-top: 30px;
+    width: 90%;
+    margin-left: 5%;
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+#bgclr {
+    background-image: -webkit-linear-gradient(left, rgb(34, 183, 194), rgb(211, 147, 147), rgb(196, 188, 122))
+}
+
+
+.container {
+    display: flex;
+    width: 98%;
+    margin-left: 10px;
+}
+
+.one {
+    background-color: rgb(168, 183, 214);
+    width: 32%;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+
+.two {
+    background-color: plum;
+    width: 32%;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+.three {
+    background-color: rgb(191, 160, 221);
+    width: 32%;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin: 10px;
+
+
+}
